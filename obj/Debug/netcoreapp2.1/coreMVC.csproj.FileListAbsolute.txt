@@ -34,3 +34,4 @@ C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\coreMVC\obj\Debug\netcoreapp2.1
 C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\coreMVC\obj\Debug\netcoreapp2.1\coreMVC.pdb
 C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\coreMVC\obj\Debug\netcoreapp2.1\coreMVC.genruntimeconfig.cache
 C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\coreMVC\obj\Debug\netcoreapp2.1\coreMVC.csproj.CopyComplete
+C:\Users\yuu_r\OneDrive\Documentos\Yuri\Projetos\coreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Codigos.cshtml.g.cs
